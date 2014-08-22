@@ -1,11 +1,10 @@
-# Introduction to [I]Python
+Introduction to [I]Python
+-----
 
-## Installation Instructions
-
-### Downloading and Installing
+# Installation Instructions
 Please download and install the [Anaconda Distribution for Python](https://store.continuum.io/cshop/anaconda/).
 
-[[known issue](http://stackoverflow.com/questions/23343484/python-3-statsmodels)]: statsmodels 0.5.0 doesn't yet work with Python 3.4
+**Remark**: [[known issue](http://stackoverflow.com/questions/23343484/python-3-statsmodels)] statsmodels 0.5.0 doesn't yet work with Python 3.4
 
 For Mac and Linux users, open up your terminal. Windows users need to open up their Command Prompt. Change directories in the terminal (using the `cd` command) to the working directory where you want to store your IPython Notebook data.
 
@@ -17,7 +16,7 @@ It may take a minute or two to set itself up, but eventually IPython Notebook wi
 
 **Remark**: Currently, IPython Notebook only supports Firefox and Chrome.
 
-### Assignment
+# Assignment
 Run the `README.ipynb` notebook by entering the command:
 
 	ipython notebook README.ipynb

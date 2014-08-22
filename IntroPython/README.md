@@ -28,3 +28,9 @@ The first two lines of your output should look like:
                             OLS Regression Results                            
 ==============================================================================
 ```
+
+### Lecture Instructions
+
+[README]: Installation instructions to get a working copy of [I]Python up and running with the necessary libraries.
+
+[IntroPython0]: An introduction to the IPython notebook, teaching users how to operate the notebook in different ("Edit" and "Command") modes, loading and saving files, embedding multimedia objects, and markdown text. It is an [unmodified copy](http://nbviewer.ipython.org/github/esc/scipy2013-tutorial-numpy-ipython/blob/master/ipython.ipynb) of the same from [Valentin Haenel's 2013 Scipy tutorial](https://github.com/esc/scipy2013-tutorial-numpy-ipython/tree/master/).

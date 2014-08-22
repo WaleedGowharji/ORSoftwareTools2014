@@ -35,4 +35,6 @@ The first two lines of your output should look like:
 
 [IntroPython0]: An introduction to the IPython notebook, teaching users how to operate the notebook in different ("Edit" and "Command") modes, loading and saving files, embedding multimedia objects, and markdown text. It is an [unmodified copy](http://nbviewer.ipython.org/github/esc/scipy2013-tutorial-numpy-ipython/blob/master/ipython.ipynb) of the same from [Valentin Haenel's 2013 Scipy tutorial](https://github.com/esc/scipy2013-tutorial-numpy-ipython/tree/master/).
 
-[IntroPython1]: Introduces the basics of data manipulation in [I]Python, using NumPy for array operations, pandas for working with tabular and panel data, and matplotlib for data visualization. There are some exercises at the end to test understanding of topics mentioned.
+[IntroPython1]: Introduces the basics of data manipulation in Python, using NumPy for array operations, pandas for working with tabular and panel data, and matplotlib for data visualization. There are some exercises at the end to test understanding of topics mentioned.
+
+[IntroPython2]: Introduces linear and logistic regression in Python. We also introduce the idea of splitting data into a training and testing set. There are some exercises at the end to test understanding of the topics mentioned.

@@ -30,7 +30,8 @@ The first two lines of your output should look like:
 ```
 
 ## Lecture Instructions
-(You can browse through a HTML rendering of [each individual notebook on nbviewer](http://nbviewer.ipython.org/github/yeesian/ORSoftwareTools2014/tree/master/IntroPython/))
+- The slides are contained in `IntroPythonSlides.ipynb`, and available as a [notebook](http://nbviewer.ipython.org/github/yeesian/ORSoftwareTools2014/blob/master/IntroPython/IntroPythonSlides.ipynb), or as [slides](https://slideviewer.herokuapp.com/github/yeesian/ORSoftwareTools2014/blob/master/IntroPython/IntroPythonSlides.ipynb))
+- You can browse through a HTML rendering of [each section on nbviewer](http://nbviewer.ipython.org/github/yeesian/ORSoftwareTools2014/tree/master/IntroPython/)
 
 **README**: Installation instructions to get a working copy of [I]Python up and running with the necessary libraries.
 

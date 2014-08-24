@@ -17,5 +17,5 @@ To (passively) follow along:
 - [Slides available on slideviewer](https://slideviewer.herokuapp.com/github/yeesian/ORSoftwareTools2014/blob/master/DataWranglingPython/DataWranglingPython.ipynb?create=1#/)
 
 ##TODO
-[ ] Doublecheck and fix remaining conversion from R to Python
-[ ] Separate solutions from exercises
+- [ ] Doublecheck and fix remaining conversion from R to Python
+- [ ] Separate solutions from exercises
